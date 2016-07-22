@@ -1,5 +1,7 @@
 # RNSegmentIOAnalytics
 
+
+## This fork has been improved upon and superseded by [smore-inc/react-native-segment-io-analytics#26](https://github.com/smore-inc/react-native-segment-io-analytics/pull/26)
 Written by Tal Kain <tal@kain.net>
 
 Based on SegmentIO (https://segment.com) Analytics project. See [iOS SDK](https://github.com/segmentio/analytics-ios) and [Android SDK](https://github.com/segmentio/analytics-android).
